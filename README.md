@@ -8,7 +8,7 @@ Install latest version of node from: https://nodejs.org/en/download/current
 
 In the project directory, you can run:
 
-### `npm install`
+### `npm install --legacy-peer-deps`
 
 Installs all the required dependencies
 
