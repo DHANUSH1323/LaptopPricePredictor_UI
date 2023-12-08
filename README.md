@@ -1,6 +1,7 @@
 # Getting Started with Laptop Price Predictor App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Install latest version of node from: https://nodejs.org/en/download/current
 
 ## Available Scripts
